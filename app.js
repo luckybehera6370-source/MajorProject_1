@@ -80,7 +80,7 @@ app.use((req,res,next) => {
   res.locals.currUser = req.user;
   next();
 });
-
+   
 app.get("/demouser", async (req, res) => {
   let fakeUser = new User({
     email: "student@gmail.com",
