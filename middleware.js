@@ -1,4 +1,5 @@
 const Listing = require("./models/listing");
+const Review = require("./models/review.js");
 const ExpressError = require("./utils/ExpressError.js");
 const { listingSchema ,reviewSchema } = require("./schema.js");
 
@@ -51,4 +52,17 @@ module.exports.validateReview = (req,res,next) => {
   }else{
     next();
   }
+};
+
+module.exports.isReviewAuthor = async (req,res,next) => {
+  const review = await Review.findById(req.params.reviewId);
+  if (!review) {
+    req.flash("error", "Review does not exist!");
+    return res.redirect(`/listings/${req.params.id}`);
+  }
+  if (!review.author || !review.author.equals(req.user._id)) {
+    req.flash("error", "You are not authorized to delete this review!");
+    return res.redirect(`/listings/${req.params.id}`);
+  }
+  next();
 };
