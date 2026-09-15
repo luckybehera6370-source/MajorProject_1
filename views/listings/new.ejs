@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-8 mx-auto" style="background-color: #f8f9fa; padding: 2rem; border-radius: 0.5rem;">
         <h3>Create New Listing</h3><br>
-        <form method="POST" action="/listings" class="needs-validation" novalidate>
+        <form method="POST" action="/listings" novalidate class="needs-validation" enctype="multipart/form-data">
             <div class="mb-3">
                 <label for="title" class="form-label">Title:</label>
                 <input name="listing[title]" placeholder="Enter title" type="text" class="form-control" required>
@@ -28,8 +28,8 @@
             </div>
 
             <div class="mb-3">
-                <label for="image" class="form-label">Image URL:</label>
-                <input name="listing[image]" placeholder="Enter image URL" type="text" class="form-control">
+                <label for="image" class="form-label">Upload ListingImage :</label>
+                <input name="listing[image]" type="file" class="form-control">
                 <div class="valid-feedback">
                     Image URL looks good!
                 </div>

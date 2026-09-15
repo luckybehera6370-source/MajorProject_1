@@ -1,3 +1,7 @@
+if(process.env.NODE_ENV !== "production") {
+    require("dotenv").config();
+}
+
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
@@ -23,8 +27,8 @@ main()
     console.log("connected to DB")
   })
   .catch((err) => {
-    console.log(err)
-  })
+    console.error(err);
+  });
 
 async function setDefaultPrices() {
     await Listing.updateMany(
