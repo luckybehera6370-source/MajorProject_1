@@ -34,7 +34,12 @@ const listingSchema = new Schema({
             type: String,
             enum: ['Point']
         },
-        coordinates: [Number]
+        coordinates: [Number],
+
+        category:{
+            type : "String",
+            enum: ["mountain","arctics","farms","deserts"]
+        }
     }
 });
 
