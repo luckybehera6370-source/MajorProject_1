@@ -189,7 +189,7 @@ app.use((req, res, next) => {
 
 app.get("/", (req, res) => {
 
-    res.render("listings/index.ejs");
+    res.redirect("/listings");
 
 });
 
