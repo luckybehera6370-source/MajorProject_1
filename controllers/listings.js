@@ -29,8 +29,22 @@ const getValidGeometry = async (location) => {
 };
 
 module.exports.index = async (req, res) => {
-    const allListings =await Listing.find({});
-    res.render("listings/index",{ allListings });
+    const { search } = req.query;
+    let query = {};
+
+    if (search && search.trim()) {
+        const keyword = search.trim();
+        query = {
+            $or: [
+                { title: { $regex: keyword, $options: 'i' } },
+                { location: { $regex: keyword, $options: 'i' } },
+                { country: { $regex: keyword, $options: 'i' } }
+            ]
+        };
+    }
+
+    const allListings = await Listing.find(query);
+    res.render("listings/index", { allListings, search });
 };
 
 module.exports.renderNewForm = (req,res) =>{
