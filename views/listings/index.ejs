@@ -110,12 +110,12 @@
                 <% for(let listing of allListings) { %> 
                     <a href="/listings/<%= listing._id %>" class="listing-link">
                         <div class="card col listing-card" >
-                <img src="<%= listing.image.url %>" class="card-img-top" alt="listing_image" style="height: 20rem;">
+                <img src="<%= listing.image && listing.image.url ? listing.image.url : 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80' %>" class="card-img-top" alt="listing_image" style="height: 20rem;">
                 <div class="card-img-overlay"></div>
                 <div class="card-body">
                 <p class="card-text">
                     <b><%= listing.title %></b><br>
-                    <%= listing.price.toLocaleString('en-IN') ?? 'N/A' %> / Night
+                    <%= listing.price && typeof listing.price.toLocaleString === 'function' ? listing.price.toLocaleString('en-IN') : 'N/A' %> / Night
                     <i class="tax-info">&nbsp; &nbsp;+18% GST</i>
                 </p>
                 </div>
