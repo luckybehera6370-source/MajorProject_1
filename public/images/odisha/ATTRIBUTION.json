@@ -1,0 +1,905 @@
+{
+  "notice": "Photographs are illustrative destination images; they do not claim to depict the fictional sample rental properties. Creator and license information is supplied for every photo.",
+  "assets": [
+    {
+      "file": "odisha-01.jpg",
+      "destination": "Dhenkanal",
+      "theme": "heritage",
+      "title": "File:Kapilasa temple Dhenkanal Odisha1.jpg",
+      "author": "Diptiman Panigrahi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapilasa_temple_Dhenkanal_Odisha1.jpg"
+    },
+    {
+      "file": "odisha-02.jpg",
+      "destination": "Puri",
+      "theme": "coast",
+      "title": "File:At Puri beach 04.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_Puri_beach_04.jpg"
+    },
+    {
+      "file": "odisha-03.jpg",
+      "destination": "Bhubaneswar",
+      "theme": "heritage",
+      "title": "File:Lingaraj Temple, Bhubaneswar, Odisha 2.jpg",
+      "author": "Athulvis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple,_Bhubaneswar,_Odisha_2.jpg"
+    },
+    {
+      "file": "odisha-04.jpg",
+      "destination": "Cuttack",
+      "theme": "city",
+      "title": "File:Chandi Road, Cuttack,Odisha, India - panoramio.jpg",
+      "author": "danish Ahmed",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandi_Road,_Cuttack,Odisha,_India_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-05.jpg",
+      "destination": "Konark",
+      "theme": "heritage",
+      "title": "File:13th Century stone architectures at Konark Sun Temple Puri, Odisha, India.jpg",
+      "author": "Joydeep",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:13th_Century_stone_architectures_at_Konark_Sun_Temple_Puri,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-06.jpg",
+      "destination": "Daringbadi",
+      "theme": "hills",
+      "title": "File:Daringbadi.jpg",
+      "author": "Sakar Tiwari",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daringbadi.jpg"
+    },
+    {
+      "file": "odisha-07.jpg",
+      "destination": "Gopalpur",
+      "theme": "coast",
+      "title": "File:Gopalpur 's beach, the ocean.JPG",
+      "author": "Jagadhatri",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopalpur_%27s_beach,_the_ocean.JPG"
+    },
+    {
+      "file": "odisha-08.jpg",
+      "destination": "Sambalpur",
+      "theme": "city",
+      "title": "File:Sunset view sambalpur.jpg",
+      "author": "Rishu Go",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_view_sambalpur.jpg"
+    },
+    {
+      "file": "odisha-09.jpg",
+      "destination": "Koraput",
+      "theme": "hills",
+      "title": "File:Hill view park, Daringbari, Orissa.JPG",
+      "author": "সন্দীপ সরকার",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_view_park,_Daringbari,_Orissa.JPG"
+    },
+    {
+      "file": "odisha-10.jpg",
+      "destination": "Puri",
+      "theme": "coast",
+      "title": "File:Decorated one-humped Camel, Camelus dromedarius, at Puri Sea Beach, Odisha, India.jpg",
+      "author": "Joydeep Chakraborty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Decorated_one-humped_Camel,_Camelus_dromedarius,_at_Puri_Sea_Beach,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-11.jpg",
+      "destination": "Bhubaneswar",
+      "theme": "heritage",
+      "title": "File:Mukteswar, a Hindu temple dedicated to Shiva located in Bhubaneswar, Odisha, India.jpg",
+      "author": "Prashant Kharote",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mukteswar,_a_Hindu_temple_dedicated_to_Shiva_located_in_Bhubaneswar,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-12.jpg",
+      "destination": "Cuttack",
+      "theme": "city",
+      "title": "File:Mahanadi Bridge, Cuttack - N.H. 5 - panoramio.jpg",
+      "author": "Deepak das",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahanadi_Bridge,_Cuttack_-_N.H._5_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-13.jpg",
+      "destination": "Dhenkanal",
+      "theme": "heritage",
+      "title": "File:Kapilasa temple Dhenkanal Odisha2.jpg",
+      "author": "Diptiman Panigrahi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapilasa_temple_Dhenkanal_Odisha2.jpg"
+    },
+    {
+      "file": "odisha-14.jpg",
+      "destination": "Gopalpur",
+      "theme": "coast",
+      "title": "File:Gopalpur 's busy beach.JPG",
+      "author": "Jagadhatri",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopalpur_%27s_busy_beach.JPG"
+    },
+    {
+      "file": "odisha-15.jpg",
+      "destination": "Daringbadi",
+      "theme": "hills",
+      "title": "File:Dawn at Daringbadi Odisha.jpg",
+      "author": "Rusa2006",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dawn_at_Daringbadi_Odisha.jpg"
+    },
+    {
+      "file": "odisha-16.jpg",
+      "destination": "Sambalpur",
+      "theme": "city",
+      "title": "File:Mahanadi by DPD.jpg",
+      "author": "Ddd1141",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahanadi_by_DPD.jpg"
+    },
+    {
+      "file": "odisha-17.jpg",
+      "destination": "Koraput",
+      "theme": "hills",
+      "title": "File:Deuli Hill in Odisha.jpg",
+      "author": "Desiakoraput",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deuli_Hill_in_Odisha.jpg"
+    },
+    {
+      "file": "odisha-18.jpg",
+      "destination": "Konark",
+      "theme": "heritage",
+      "title": "File:13th Century stone curvings at Konark Sun Temple Puri district, Odisha, India 5.jpg",
+      "author": "Joydeep",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:13th_Century_stone_curvings_at_Konark_Sun_Temple_Puri_district,_Odisha,_India_5.jpg"
+    },
+    {
+      "file": "odisha-19.jpg",
+      "destination": "Puri",
+      "theme": "coast",
+      "title": "File:People at the Puri Beach in Puri, Odisha 02.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_at_the_Puri_Beach_in_Puri,_Odisha_02.jpg"
+    },
+    {
+      "file": "odisha-20.jpg",
+      "destination": "Bhubaneswar",
+      "theme": "heritage",
+      "title": "File:A Brick House at Konark Sun Temple Puri district, Odisha, India.jpg",
+      "author": "Joydeep",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Brick_House_at_Konark_Sun_Temple_Puri_district,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-21.jpg",
+      "destination": "Baripada",
+      "theme": "city",
+      "title": "File:Mango Garden at Baripada, Mayurbhanja, odisha,India.jpg",
+      "author": "Pournnamasi sahu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mango_Garden_at_Baripada,_Mayurbhanja,_odisha,India.jpg"
+    },
+    {
+      "file": "odisha-22.jpg",
+      "destination": "Balasore",
+      "theme": "coast",
+      "title": "File:Beautiful Sun Set.jpg",
+      "author": "B.Sunita M",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Sun_Set.jpg"
+    },
+    {
+      "file": "odisha-23.jpg",
+      "destination": "Rourkela",
+      "theme": "city",
+      "title": "File:Aerial view from National Institute of Technology Campus, Rourkela, Sundargarh, Odisha, India (2015).jpg",
+      "author": "Sharmaambuj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_from_National_Institute_of_Technology_Campus,_Rourkela,_Sundargarh,_Odisha,_India_(2015).jpg"
+    },
+    {
+      "file": "odisha-24.jpg",
+      "destination": "Paradip",
+      "theme": "coast",
+      "title": "File:A Boat in Paradeep Sea.jpg",
+      "author": "Jnanaranjan sahu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Boat_in_Paradeep_Sea.jpg"
+    },
+    {
+      "file": "odisha-25.jpg",
+      "destination": "Satapada",
+      "theme": "lake",
+      "title": "File:A motorboat on the Chilika Lake, Odisha, India.jpg",
+      "author": "Mr. Debapriya Hore",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_motorboat_on_the_Chilika_Lake,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-26.jpg",
+      "destination": "Taptapani",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 2 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_2_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-27.jpg",
+      "destination": "Rayagada",
+      "theme": "hills",
+      "title": "File:Heaven in Koraput.jpg",
+      "author": "Shubsclicks",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heaven_in_Koraput.jpg"
+    },
+    {
+      "file": "odisha-28.jpg",
+      "destination": "Phulbani",
+      "theme": "hills",
+      "title": "File:Hills near Padua town.jpg",
+      "author": "S7tr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hills_near_Padua_town.jpg"
+    },
+    {
+      "file": "odisha-29.jpg",
+      "destination": "Angul",
+      "theme": "city",
+      "title": "File:Panoramic View of NTPC Kaniha Power Station Odisha.jpg",
+      "author": "Rasmi68",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_NTPC_Kaniha_Power_Station_Odisha.jpg"
+    },
+    {
+      "file": "odisha-30.jpg",
+      "destination": "Berhampur",
+      "theme": "city",
+      "title": "File:Berhampur orissa - panoramio.jpg",
+      "author": "Bikash Lakra",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berhampur_orissa_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-31.jpg",
+      "destination": "Rajnagar",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 3 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_3_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-32.jpg",
+      "destination": "Jeypore",
+      "theme": "hills",
+      "title": "File:Hilly Terrain in Koraput, Odisha.jpg",
+      "author": "Kkmishra1960",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilly_Terrain_in_Koraput,_Odisha.jpg"
+    },
+    {
+      "file": "odisha-33.jpg",
+      "destination": "Chandipur",
+      "theme": "coast",
+      "title": "File:Chandipur sea beach Baleswar.jpg",
+      "author": "Subhasisa Panigahi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandipur_sea_beach_Baleswar.jpg"
+    },
+    {
+      "file": "odisha-34.jpg",
+      "destination": "Ganjam",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 4 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_4_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-35.jpg",
+      "destination": "Bolangir",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 5 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_5_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-36.jpg",
+      "destination": "Bargarh",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 6 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_6_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-37.jpg",
+      "destination": "Nayagarh",
+      "theme": "countryside",
+      "title": "File:'The Haat' of Doraguda - 7 (The weekly village market of Doraguda, Odisha).jpg",
+      "author": "Ad031259",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27The_Haat%27_of_Doraguda_-_7_(The_weekly_village_market_of_Doraguda,_Odisha).jpg"
+    },
+    {
+      "file": "odisha-38.jpg",
+      "destination": "Astaranga",
+      "theme": "coast",
+      "title": "File:People at the Puri Beach in Puri, Odisha 06.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_at_the_Puri_Beach_in_Puri,_Odisha_06.jpg"
+    },
+    {
+      "file": "odisha-39.jpg",
+      "destination": "Similipal",
+      "theme": "hills",
+      "title": "File:Similipal.jpg",
+      "author": "Sonubabuni",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Similipal.jpg"
+    },
+    {
+      "file": "odisha-40.jpg",
+      "destination": "Deomali",
+      "theme": "hills",
+      "title": "File:IMG-20220821-WA0004.jpg",
+      "author": "Priyadarshini 89",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMG-20220821-WA0004.jpg"
+    },
+    {
+      "file": "odisha-41.jpg",
+      "destination": "Talsari Beach",
+      "theme": "coast",
+      "title": "File:Fishing boats at talsari.jpg",
+      "author": "Priyankasingha1811",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishing_boats_at_talsari.jpg"
+    },
+    {
+      "file": "odisha-42.jpg",
+      "destination": "Mangalajodi",
+      "theme": "lake",
+      "title": "File:An iseland in Chilika lake.jpg",
+      "author": "Soumendra Kumar Sahoo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_iseland_in_Chilika_lake.jpg"
+    },
+    {
+      "file": "odisha-43.jpg",
+      "destination": "Rambha",
+      "theme": "lake",
+      "title": "File:Asian Dowitcher, Chilika Lake, Odisha, India (19401127763).jpg",
+      "author": "Mike Prince from Bangalore, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asian_Dowitcher,_Chilika_Lake,_Odisha,_India_(19401127763).jpg"
+    },
+    {
+      "file": "odisha-44.jpg",
+      "destination": "Dhamra",
+      "theme": "countryside",
+      "title": "File:A Scene of village street.jpg",
+      "author": "Taraprasad Jena",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Scene_of_village_street.jpg"
+    },
+    {
+      "file": "odisha-45.jpg",
+      "destination": "Bhadrak",
+      "theme": "city",
+      "title": "File:Bhadrak City view.jpg",
+      "author": "Shanti.lataa1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhadrak_City_view.jpg"
+    },
+    {
+      "file": "odisha-46.jpg",
+      "destination": "Jaleswar",
+      "theme": "countryside",
+      "title": "File:A date palm tree used for making toddy in Jholasahi village in Gajapati district, Odisha, India.jpg",
+      "author": "Subhashish Panigrahi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_date_palm_tree_used_for_making_toddy_in_Jholasahi_village_in_Gajapati_district,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-47.jpg",
+      "destination": "Soro",
+      "theme": "countryside",
+      "title": "File:Amruta Bhanda papaya in Odisha Village.jpg",
+      "author": "ସୁଭ ପା/Subhashish Panigrahi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amruta_Bhanda_papaya_in_Odisha_Village.jpg"
+    },
+    {
+      "file": "odisha-48.jpg",
+      "destination": "Keonjhar",
+      "theme": "countryside",
+      "title": "File:Boito (boita) sailing in a village pond during Boita Bandana, Baleswar, Odisha 02.JPG",
+      "author": "Subhashish Panigrahi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boito_(boita)_sailing_in_a_village_pond_during_Boita_Bandana,_Baleswar,_Odisha_02.JPG"
+    },
+    {
+      "file": "odisha-49.jpg",
+      "destination": "Gonasika",
+      "theme": "countryside",
+      "title": "File:Ho house in Keshpada village, Mayurbhanj district, Odisha.jpg",
+      "author": "Subhashish Panigrahi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_house_in_Keshpada_village,_Mayurbhanj_district,_Odisha.jpg"
+    },
+    {
+      "file": "odisha-50.jpg",
+      "destination": "Sanaghagara",
+      "theme": "waterfall",
+      "title": "File:Gandahati Waterfall.jpg",
+      "author": "Subhamsahoo2008",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandahati_Waterfall.jpg"
+    },
+    {
+      "file": "odisha-51.jpg",
+      "destination": "Badaghagara",
+      "theme": "waterfall",
+      "title": "File:PXL 20250608 043103853.MP Sanaghagara Waterfall , Keonjhar, Odisha 01.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_043103853.MP_Sanaghagara_Waterfall_,_Keonjhar,_Odisha_01.jpg"
+    },
+    {
+      "file": "odisha-52.jpg",
+      "destination": "Barbil",
+      "theme": "countryside",
+      "title": "File:House in Nimeishapur village, Cuttack district, Odisha, India.jpg",
+      "author": "Shaktirupa Mohanty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_in_Nimeishapur_village,_Cuttack_district,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-53.jpg",
+      "destination": "Joda",
+      "theme": "countryside",
+      "title": "File:Khalibandha Village Front View.jpg",
+      "author": "Strange Burg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khalibandha_Village_Front_View.jpg"
+    },
+    {
+      "file": "odisha-54.jpg",
+      "destination": "Khandadhar",
+      "theme": "waterfall",
+      "title": "File:PXL 20250608 043103853.MP Sanaghagara Waterfall , Keonjhar, Odisha 02.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_043103853.MP_Sanaghagara_Waterfall_,_Keonjhar,_Odisha_02.jpg"
+    },
+    {
+      "file": "odisha-55.jpg",
+      "destination": "Sundargarh",
+      "theme": "countryside",
+      "title": "File:Kudapatana Village Road.jpg",
+      "author": "Aliva Sahoo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kudapatana_Village_Road.jpg"
+    },
+    {
+      "file": "odisha-56.jpg",
+      "destination": "Bonai",
+      "theme": "countryside",
+      "title": "File:Mayurjhalia Village Name Plete Border.jpg",
+      "author": "JyothikaSahoo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayurjhalia_Village_Name_Plete_Border.jpg"
+    },
+    {
+      "file": "odisha-57.jpg",
+      "destination": "Rajgangpur",
+      "theme": "countryside",
+      "title": "File:Odisha Village kids celebrating Christmas.jpg",
+      "author": "Rimjam",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odisha_Village_kids_celebrating_Christmas.jpg"
+    },
+    {
+      "file": "odisha-58.jpg",
+      "destination": "Jharsuguda",
+      "theme": "city",
+      "title": "File:Autumn view of IB river.jpg",
+      "author": "Kamaldas92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_view_of_IB_river.jpg"
+    },
+    {
+      "file": "odisha-59.jpg",
+      "destination": "Belpahar",
+      "theme": "countryside",
+      "title": "File:Odisha village (1).jpg",
+      "author": "Radosław Botev",
+      "license": "CC BY 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odisha_village_(1).jpg"
+    },
+    {
+      "file": "odisha-60.jpg",
+      "destination": "Deogarh",
+      "theme": "countryside",
+      "title": "File:Odisha village (2).jpg",
+      "author": "Radosław Botev",
+      "license": "CC BY 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odisha_village_(2).jpg"
+    },
+    {
+      "file": "odisha-61.jpg",
+      "destination": "Pradhanpat",
+      "theme": "countryside",
+      "title": "File:Odisha village (3).jpg",
+      "author": "Radosław Botev",
+      "license": "CC BY 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odisha_village_(3).jpg"
+    },
+    {
+      "file": "odisha-62.jpg",
+      "destination": "Boudh",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 01.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_01.jpg"
+    },
+    {
+      "file": "odisha-63.jpg",
+      "destination": "Sonepur",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 02.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_02.jpg"
+    },
+    {
+      "file": "odisha-64.jpg",
+      "destination": "Titlagarh",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 03.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_03.jpg"
+    },
+    {
+      "file": "odisha-65.jpg",
+      "destination": "Patnagarh",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 04.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_04.jpg"
+    },
+    {
+      "file": "odisha-66.jpg",
+      "destination": "Nuapada",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 08.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_08.jpg"
+    },
+    {
+      "file": "odisha-67.jpg",
+      "destination": "Bhawanipatna",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 09.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_09.jpg"
+    },
+    {
+      "file": "odisha-68.jpg",
+      "destination": "Junagarh",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 10.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_10.jpg"
+    },
+    {
+      "file": "odisha-69.jpg",
+      "destination": "Kesinga",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 11.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_11.jpg"
+    },
+    {
+      "file": "odisha-70.jpg",
+      "destination": "Nabarangpur",
+      "theme": "countryside",
+      "title": "File:PXL 20250607 054940653 Bisoi Tribal Village and Forest Outskirts of Simlipal National Park, Odisha 13.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250607_054940653_Bisoi_Tribal_Village_and_Forest_Outskirts_of_Simlipal_National_Park,_Odisha_13.jpg"
+    },
+    {
+      "file": "odisha-71.jpg",
+      "destination": "Umerkote",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 01.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_01.jpg"
+    },
+    {
+      "file": "odisha-72.jpg",
+      "destination": "Malkangiri",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 02.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_02.jpg"
+    },
+    {
+      "file": "odisha-73.jpg",
+      "destination": "Chitrakonda",
+      "theme": "lake",
+      "title": "File:Balugaon on Chilika, Odisha, India.jpg",
+      "author": "Ckpcb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balugaon_on_Chilika,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-74.jpg",
+      "destination": "Gunupur",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 03.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_03.jpg"
+    },
+    {
+      "file": "odisha-75.jpg",
+      "destination": "Lamtaput",
+      "theme": "hills",
+      "title": "File:Koraput hill.jpg",
+      "author": "BubunTalk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koraput_hill.jpg"
+    },
+    {
+      "file": "odisha-76.jpg",
+      "destination": "Gupteswar",
+      "theme": "hills",
+      "title": "File:Road to Jeypore - panoramio.jpg",
+      "author": "SergeiBuls",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_to_Jeypore_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-77.jpg",
+      "destination": "Sunabeda",
+      "theme": "hills",
+      "title": "File:Road to Jeypore - panoramio (1).jpg",
+      "author": "SergeiBuls",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_to_Jeypore_-_panoramio_(1).jpg"
+    },
+    {
+      "file": "odisha-78.jpg",
+      "destination": "Paralakhemundi",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 04.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_04.jpg"
+    },
+    {
+      "file": "odisha-79.jpg",
+      "destination": "Mahendragiri",
+      "theme": "hills",
+      "title": "File:The Path.jpg",
+      "author": "Rishita Bhattacharya",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Path.jpg"
+    },
+    {
+      "file": "odisha-80.jpg",
+      "destination": "Khandagiri",
+      "theme": "heritage",
+      "title": "File:Khandagiri caves, Odisha, India.jpg",
+      "author": "Yash raina",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khandagiri_caves,_Odisha,_India.jpg"
+    },
+    {
+      "file": "odisha-81.jpg",
+      "destination": "Dhauli",
+      "theme": "heritage",
+      "title": "File:Dhauli Shanti Stupa, Odisha 0.jpg",
+      "author": "Siddhant Sharma",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhauli_Shanti_Stupa,_Odisha_0.jpg"
+    },
+    {
+      "file": "odisha-82.jpg",
+      "destination": "Pipili",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 05.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_05.jpg"
+    },
+    {
+      "file": "odisha-83.jpg",
+      "destination": "Raghurajpur",
+      "theme": "heritage",
+      "title": "File:Raghurajpur - Decorated Village House.jpg",
+      "author": "Sumit Surai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raghurajpur_-_Decorated_Village_House.jpg"
+    },
+    {
+      "file": "odisha-84.jpg",
+      "destination": "Banapur",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 06.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_06.jpg"
+    },
+    {
+      "file": "odisha-85.jpg",
+      "destination": "Khandapada",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 07.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_07.jpg"
+    },
+    {
+      "file": "odisha-86.jpg",
+      "destination": "Jajpur",
+      "theme": "heritage",
+      "title": "File:Ratnagiri Hills Odisha.jpg",
+      "author": "Dev Jadiya",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ratnagiri_Hills_Odisha.jpg"
+    },
+    {
+      "file": "odisha-87.jpg",
+      "destination": "Chandikhol",
+      "theme": "countryside",
+      "title": "File:PXL 20250608 094035361.MP Keonjhar Forest Road and Tribal Village Scape Odisha 08.jpg",
+      "author": "Sourabh.biswas003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PXL_20250608_094035361.MP_Keonjhar_Forest_Road_and_Tribal_Village_Scape_Odisha_08.jpg"
+    },
+    {
+      "file": "odisha-88.jpg",
+      "destination": "Ratnagiri",
+      "theme": "heritage",
+      "title": "File:Kkm stupa ratnagiri odisha 4.jpg",
+      "author": "Kishor Kumar Mishra, 787/A, Jayadev Vihar, Bhubaneswar-751013, Odisha, India",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kkm_stupa_ratnagiri_odisha_4.jpg"
+    },
+    {
+      "file": "odisha-89.jpg",
+      "destination": "Lalitgiri",
+      "theme": "heritage",
+      "title": "File:Kkm monastery lalitgiri odisha 4.jpg",
+      "author": "Kishor Kumar Mishra, 787/A, Jayadev Vihar, Bhubaneswar-751013, Odisha, India",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kkm_monastery_lalitgiri_odisha_4.jpg"
+    },
+    {
+      "file": "odisha-90.jpg",
+      "destination": "Atri",
+      "theme": "countryside",
+      "title": "File:Pattachitra artist at work in Odisha, India.jpg",
+      "author": "Euphoric Captures",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattachitra_artist_at_work_in_Odisha,_India.jpg"
+    }
+  ]
+}

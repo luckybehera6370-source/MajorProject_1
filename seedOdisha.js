@@ -2,7 +2,8 @@ require("dotenv").config();
 
 const mongoose = require("mongoose");
 const dns = require("dns");
-const { writeListingArtwork } = require("./utils/listingArtwork.js");
+const photoCredits = require("./public/images/odisha/ATTRIBUTION.json");
+const getListingPhotoTheme = require("./utils/listingPhotoTheme.js");
 const Listing = require("./models/listing.js");
 const User = require("./models/user.js");
 
@@ -676,8 +677,16 @@ odishaListings.push(
     }))
 );
 
+if (photoCredits.assets.length !== odishaListings.length) {
+    throw new Error("The Odisha photo attribution manifest must contain one unique photo per seeded listing.");
+}
+
 const listingsWithLocalImages = odishaListings.map((listing, index) => {
-    const filename = `odisha-${String(index + 1).padStart(2, "0")}.svg`;
+    const photo = photoCredits.assets[index];
+    const filename = photo.file;
+    if (photo.theme !== getListingPhotoTheme(listing.location)) {
+        throw new Error(`The photo for ${listing.location} must match its ${getListingPhotoTheme(listing.location)} destination theme.`);
+    }
     return {
         ...listing,
         image: {
@@ -693,14 +702,13 @@ const uniqueSeedImageUrls = new Set(listingsWithLocalImages.map(({ image }) => i
 if (
     uniqueSeedTitles.size !== listingsWithLocalImages.length ||
     uniqueSeedDescriptions.size !== listingsWithLocalImages.length ||
-    uniqueSeedImageUrls.size !== listingsWithLocalImages.length
+    uniqueSeedImageUrls.size !== listingsWithLocalImages.length ||
+    new Set(photoCredits.assets.map(({ file }) => file)).size !== listingsWithLocalImages.length
 ) {
     throw new Error("Sample seed listings must have unique titles, descriptions, and images.");
 }
 
 async function seedOdishaListings() {
-    writeListingArtwork(listingsWithLocalImages.length);
-
     const dbUrl = process.env.ATLASDB_URL;
     if (!dbUrl) {
         throw new Error("ATLASDB_URL is not set. Check your local .env configuration.");
