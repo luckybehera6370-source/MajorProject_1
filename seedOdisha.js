@@ -608,6 +608,95 @@ const odishaListings = [
     },
 ];
 
+const additionalDestinations = [
+    { name: "Talsari Beach", stayType: "Coastal cabin", coordinates: [87.06, 21.59] },
+    { name: "Mangalajodi", stayType: "Birding retreat", coordinates: [85.43, 19.86] },
+    { name: "Rambha", stayType: "Lakeside guesthouse", coordinates: [85.08, 19.52] },
+    { name: "Dhamra", stayType: "Harbor cottage", coordinates: [87.02, 20.79] },
+    { name: "Bhadrak", stayType: "Town apartment", coordinates: [86.49, 21.06] },
+    { name: "Jaleswar", stayType: "Garden stay", coordinates: [87.22, 21.80] },
+    { name: "Soro", stayType: "Village homestay", coordinates: [87.07, 21.29] },
+    { name: "Keonjhar", stayType: "Hill-view cottage", coordinates: [85.58, 21.63] },
+    { name: "Gonasika", stayType: "Riverside retreat", coordinates: [85.55, 21.48] },
+    { name: "Sanaghagara", stayType: "Waterfall lodge", coordinates: [85.60, 21.56] },
+    { name: "Badaghagara", stayType: "Nature cabin", coordinates: [85.65, 21.51] },
+    { name: "Barbil", stayType: "Town apartment", coordinates: [85.40, 22.12] },
+    { name: "Joda", stayType: "Forest-edge cottage", coordinates: [85.43, 22.02] },
+    { name: "Khandadhar", stayType: "Waterfall-view lodge", coordinates: [85.11, 21.96] },
+    { name: "Sundargarh", stayType: "Heritage-inspired bungalow", coordinates: [84.04, 22.12] },
+    { name: "Bonai", stayType: "Country guesthouse", coordinates: [85.00, 21.82] },
+    { name: "Rajgangpur", stayType: "City guesthouse", coordinates: [84.58, 22.20] },
+    { name: "Jharsuguda", stayType: "Modern apartment", coordinates: [84.01, 21.86] },
+    { name: "Belpahar", stayType: "Hillside homestay", coordinates: [83.87, 21.83] },
+    { name: "Deogarh", stayType: "Orchard cottage", coordinates: [84.73, 21.53] },
+    { name: "Pradhanpat", stayType: "Forest cabin", coordinates: [84.72, 21.50] },
+    { name: "Boudh", stayType: "Riverside home", coordinates: [84.32, 20.84] },
+    { name: "Sonepur", stayType: "Heritage guesthouse", coordinates: [83.89, 20.83] },
+    { name: "Titlagarh", stayType: "Town home", coordinates: [83.15, 20.29] },
+    { name: "Patnagarh", stayType: "Courtyard stay", coordinates: [83.15, 20.71] },
+    { name: "Nuapada", stayType: "Countryside lodge", coordinates: [82.55, 20.82] },
+    { name: "Bhawanipatna", stayType: "Garden apartment", coordinates: [83.17, 19.91] },
+    { name: "Junagarh", stayType: "Hill-country guesthouse", coordinates: [82.93, 19.86] },
+    { name: "Kesinga", stayType: "Rail-town stay", coordinates: [83.22, 20.19] },
+    { name: "Nabarangpur", stayType: "Garden cottage", coordinates: [82.55, 19.23] },
+    { name: "Umerkote", stayType: "Woodland retreat", coordinates: [82.20, 19.67] },
+    { name: "Malkangiri", stayType: "Lakeside guesthouse", coordinates: [81.89, 18.35] },
+    { name: "Chitrakonda", stayType: "Reservoir cabin", coordinates: [82.03, 18.25] },
+    { name: "Gunupur", stayType: "Hill-view apartment", coordinates: [83.81, 19.08] },
+    { name: "Lamtaput", stayType: "Plateau retreat", coordinates: [82.74, 18.57] },
+    { name: "Gupteswar", stayType: "Forest cottage", coordinates: [82.51, 18.77] },
+    { name: "Sunabeda", stayType: "Mountain-view home", coordinates: [82.77, 18.72] },
+    { name: "Paralakhemundi", stayType: "Heritage-style stay", coordinates: [84.08, 18.78] },
+    { name: "Mahendragiri", stayType: "Mountain hut", coordinates: [84.35, 18.95] },
+    { name: "Khandagiri", stayType: "City-edge apartment", coordinates: [85.78, 20.26] },
+    { name: "Dhauli", stayType: "Hilltop guesthouse", coordinates: [85.84, 20.19] },
+    { name: "Pipili", stayType: "Craft-town home", coordinates: [85.83, 20.11] },
+    { name: "Raghurajpur", stayType: "Artisan-village stay", coordinates: [85.84, 19.89] },
+    { name: "Banapur", stayType: "Countryside homestay", coordinates: [85.18, 19.78] },
+    { name: "Khandapada", stayType: "Palace-town cottage", coordinates: [85.18, 20.26] },
+    { name: "Jajpur", stayType: "Heritage guesthouse", coordinates: [86.33, 20.85] },
+    { name: "Chandikhol", stayType: "Roadside lodge", coordinates: [86.12, 20.69] },
+    { name: "Ratnagiri", stayType: "Buddhist-site retreat", coordinates: [86.14, 20.65] },
+    { name: "Lalitgiri", stayType: "Hill-country cabin", coordinates: [86.23, 20.62] },
+    { name: "Atri", stayType: "Hot-spring retreat", coordinates: [85.05, 20.18] },
+];
+
+odishaListings.push(
+    ...additionalDestinations.map((destination, index) => ({
+        _id: `6a00000000000000000000${(index + 0x29).toString(16).padStart(2, "0")}`,
+        title: `Sample ${destination.stayType.toLowerCase()} near ${destination.name}`,
+        description: `Illustrative ${destination.stayType.toLowerCase()} concept near ${destination.name}, for demo use only; this is not a verified accommodation.`,
+        price: 3200 + index * 50,
+        location: destination.name,
+        state: "Odisha",
+        country: "India",
+        reviews: [],
+        geometry: { type: "Point", coordinates: destination.coordinates },
+    }))
+);
+
+const listingsWithLocalImages = odishaListings.map((listing, index) => {
+    const filename = `odisha-${String(index + 1).padStart(2, "0")}.jpg`;
+    return {
+        ...listing,
+        image: {
+            filename,
+            url: `/images/odisha/${filename}`,
+        },
+    };
+});
+
+const uniqueSeedTitles = new Set(listingsWithLocalImages.map(({ title }) => title));
+const uniqueSeedDescriptions = new Set(listingsWithLocalImages.map(({ description }) => description));
+const uniqueSeedImageUrls = new Set(listingsWithLocalImages.map(({ image }) => image.url));
+if (
+    uniqueSeedTitles.size !== listingsWithLocalImages.length ||
+    uniqueSeedDescriptions.size !== listingsWithLocalImages.length ||
+    uniqueSeedImageUrls.size !== listingsWithLocalImages.length
+) {
+    throw new Error("Sample seed listings must have unique titles, descriptions, and images.");
+}
+
 async function seedOdishaListings() {
     const dbUrl = process.env.ATLASDB_URL;
     if (!dbUrl) {
@@ -622,27 +711,39 @@ async function seedOdishaListings() {
         throw new Error("No user exists to own these listings. Create a user before seeding.");
     }
 
-    const listingIds = odishaListings.map(({ _id }) => _id);
+    const listingIds = listingsWithLocalImages.map(({ _id }) => _id);
     const existingIds = new Set(
         (await Listing.find({ _id: { $in: listingIds } }).distinct("_id"))
             .map((id) => id.toString())
     );
-    const newListings = odishaListings
+    const newListings = listingsWithLocalImages
         .filter(({ _id }) => !existingIds.has(_id))
         .map((listing) => ({ ...listing, owner: owner._id }));
 
+    if (newListings.length > 0) {
+        await Listing.insertMany(newListings);
+    }
+
+    await Listing.bulkWrite(
+        listingsWithLocalImages.map(({ _id, image }) => ({
+            updateOne: {
+                filter: { _id },
+                update: { $set: { image } },
+            },
+        }))
+    );
+
     if (newListings.length === 0) {
-        console.log("All sample Odisha listing IDs already exist; nothing was inserted.");
+        console.log("All sample Odisha listing IDs already exist; their seed images were refreshed.");
         return;
     }
 
-    await Listing.insertMany(newListings);
-    console.log(`Inserted ${newListings.length} sample Odisha listing(s).`);
+    console.log(`Inserted ${newListings.length} sample Odisha listing(s) and refreshed seed images.`);
 }
 
 seedOdishaListings()
     .then(() => {
-        console.log("Sample property details, prices, image selections, and coordinates are illustrative only. Verify them before production use; these are not verified accommodation businesses.");
+        console.log("All sample properties, prices, photos, and coordinates are illustrative; verify them before production. These are not verified accommodation businesses, and photos do not necessarily depict the named destinations.");
     })
     .catch((error) => {
         console.error("Odisha listing seed failed:", error.message);

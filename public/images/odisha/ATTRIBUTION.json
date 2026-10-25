@@ -1,0 +1,725 @@
+{
+  "notice": "Photos are illustrative sample imagery and do not necessarily depict the named Odisha destinations or listings. Retain this attribution and license information when redistributing these files.",
+  "assets": [
+    {
+      "file": "odisha-01.jpg",
+      "title": "File:Architectural Details Balconies and Windows of Taj Tower Hotel, Mumbai.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Architectural_Details_Balconies_and_Windows_of_Taj_Tower_Hotel,_Mumbai.jpg"
+    },
+    {
+      "file": "odisha-02.jpg",
+      "title": "File:Colonial-Era Hotel Elgin - Darjeeling - West Bengal - India (12406988513).jpg",
+      "author": "Adam Jones from Kelowna, BC, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonial-Era_Hotel_Elgin_-_Darjeeling_-_West_Bengal_-_India_(12406988513).jpg"
+    },
+    {
+      "file": "odisha-03.jpg",
+      "title": "File:Finlandia hotel & Fun Park,MOGA(Punjab) INDIA - panoramio.jpg",
+      "author": "finlandia moga",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Finlandia_hotel_%26_Fun_Park,MOGA(Punjab)_INDIA_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-04.jpg",
+      "title": "File:Gateway of India Taj Hotel.jpg",
+      "author": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_Taj_Hotel.jpg"
+    },
+    {
+      "file": "odisha-05.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 01.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_01.jpg"
+    },
+    {
+      "file": "odisha-06.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 02.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_02.jpg"
+    },
+    {
+      "file": "odisha-07.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 03.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_03.jpg"
+    },
+    {
+      "file": "odisha-08.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 04.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_04.jpg"
+    },
+    {
+      "file": "odisha-09.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 05.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_05.jpg"
+    },
+    {
+      "file": "odisha-10.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 06.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_06.jpg"
+    },
+    {
+      "file": "odisha-11.jpg",
+      "title": "File:Gateway of India and Taj Mahal Palace Hotel Mumbai IMG 20230918 07.jpg",
+      "author": "Dr. Raju Kasambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_Taj_Mahal_Palace_Hotel_Mumbai_IMG_20230918_07.jpg"
+    },
+    {
+      "file": "odisha-12.jpg",
+      "title": "File:Gateway of India and the Taj Mahal Palace Hotel 1.jpg",
+      "author": "Darshula",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_the_Taj_Mahal_Palace_Hotel_1.jpg"
+    },
+    {
+      "file": "odisha-13.jpg",
+      "title": "File:Gateway of India and the Taj Mahal Palace Hotel 2.jpg",
+      "author": "Darshula",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_and_the_Taj_Mahal_Palace_Hotel_2.jpg"
+    },
+    {
+      "file": "odisha-14.jpg",
+      "title": "File:Gorgeous Taj Mahal Palace Hotel, Mumbai, India.jpg",
+      "author": "Mr. Debapriya Hore",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorgeous_Taj_Mahal_Palace_Hotel,_Mumbai,_India.jpg"
+    },
+    {
+      "file": "odisha-15.jpg",
+      "title": "File:Hotel Taj near Gateway of India 01.jpg",
+      "author": "Shadab Ali",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Taj_near_Gateway_of_India_01.jpg"
+    },
+    {
+      "file": "odisha-16.jpg",
+      "title": "File:Hotel in India DSC 7637 (33028834295).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_7637_(33028834295).jpg"
+    },
+    {
+      "file": "odisha-17.jpg",
+      "title": "File:Hotel in India DSC 7638 (32987216626).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_7638_(32987216626).jpg"
+    },
+    {
+      "file": "odisha-18.jpg",
+      "title": "File:Hotel in India DSC 7639 (32987216526).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_7639_(32987216526).jpg"
+    },
+    {
+      "file": "odisha-19.jpg",
+      "title": "File:Hotel in India DSC 7640 (32987216366).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_7640_(32987216366).jpg"
+    },
+    {
+      "file": "odisha-20.jpg",
+      "title": "File:Hotel in India DSC 8323 (33036514182).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_8323_(33036514182).jpg"
+    },
+    {
+      "file": "odisha-21.jpg",
+      "title": "File:Hotel in India DSC 8331 (32810757730).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_8331_(32810757730).jpg"
+    },
+    {
+      "file": "odisha-22.jpg",
+      "title": "File:Hotel in India DSC 8332 (33036514032).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_8332_(33036514032).jpg"
+    },
+    {
+      "file": "odisha-23.jpg",
+      "title": "File:Hotel in India DSC 8335 (32348344334).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_DSC_8335_(32348344334).jpg"
+    },
+    {
+      "file": "odisha-24.jpg",
+      "title": "File:Hotel in India IMG 1124 (21426440982).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_1124_(21426440982).jpg"
+    },
+    {
+      "file": "odisha-25.jpg",
+      "title": "File:Hotel in India IMG 20140802 075759111 (20084849492).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20140802_075759111_(20084849492).jpg"
+    },
+    {
+      "file": "odisha-26.jpg",
+      "title": "File:Hotel in India IMG 20140802 075834328 (20084839412).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20140802_075834328_(20084839412).jpg"
+    },
+    {
+      "file": "odisha-27.jpg",
+      "title": "File:Hotel in India IMG 20140802 075855507 (19904773940).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20140802_075855507_(19904773940).jpg"
+    },
+    {
+      "file": "odisha-28.jpg",
+      "title": "File:Hotel in India IMG 20160323 173057221 (33470082306).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160323_173057221_(33470082306).jpg"
+    },
+    {
+      "file": "odisha-29.jpg",
+      "title": "File:Hotel in India IMG 20160324 175313465 (32667661924).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160324_175313465_(32667661924).jpg"
+    },
+    {
+      "file": "odisha-30.jpg",
+      "title": "File:Hotel in India IMG 20160324 175327711 (32667660904).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160324_175327711_(32667660904).jpg"
+    },
+    {
+      "file": "odisha-31.jpg",
+      "title": "File:Hotel in India IMG 20160617 181343343 HDR (32873187122).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160617_181343343_HDR_(32873187122).jpg"
+    },
+    {
+      "file": "odisha-32.jpg",
+      "title": "File:Hotel in India IMG 20160618 060538605 (32873186902).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160618_060538605_(32873186902).jpg"
+    },
+    {
+      "file": "odisha-33.jpg",
+      "title": "File:Hotel in India IMG 20160618 060543354 (32873186812).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160618_060543354_(32873186812).jpg"
+    },
+    {
+      "file": "odisha-34.jpg",
+      "title": "File:Hotel in India IMG 20160618 201142675 (32873384092).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160618_201142675_(32873384092).jpg"
+    },
+    {
+      "file": "odisha-35.jpg",
+      "title": "File:Hotel in India IMG 20160618 201205533 (33029073115).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20160618_201205533_(33029073115).jpg"
+    },
+    {
+      "file": "odisha-36.jpg",
+      "title": "File:Hotel in India IMG 20170408 214448633 (34535738795).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20170408_214448633_(34535738795).jpg"
+    },
+    {
+      "file": "odisha-37.jpg",
+      "title": "File:Hotel in India IMG 20170409 084324728 (34535738165).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_in_India_IMG_20170409_084324728_(34535738165).jpg"
+    },
+    {
+      "file": "odisha-38.jpg",
+      "title": "File:Marriott Hotel, West India Quay London.jpg",
+      "author": "Peter Trimming",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marriott_Hotel,_West_India_Quay_London.jpg"
+    },
+    {
+      "file": "odisha-39.jpg",
+      "title": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg"
+    },
+    {
+      "file": "odisha-40.jpg",
+      "title": "File:Swimming Pool in a hotel in Tamil Nadu 03.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swimming_Pool_in_a_hotel_in_Tamil_Nadu_03.jpg"
+    },
+    {
+      "file": "odisha-41.jpg",
+      "title": "File:Taj Hotel & Gateway of India Mumbai.jpg",
+      "author": "Kushared (Mohammed Sardar)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Hotel_%26_Gateway_of_India_Mumbai.jpg"
+    },
+    {
+      "file": "odisha-42.jpg",
+      "title": "File:Trident Hotel India (14480362809).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14480362809).jpg"
+    },
+    {
+      "file": "odisha-43.jpg",
+      "title": "File:Trident Hotel India (14480380978).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14480380978).jpg"
+    },
+    {
+      "file": "odisha-44.jpg",
+      "title": "File:Trident Hotel India (14480553257).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14480553257).jpg"
+    },
+    {
+      "file": "odisha-45.jpg",
+      "title": "File:Trident Hotel India (14663798231).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14663798231).jpg"
+    },
+    {
+      "file": "odisha-46.jpg",
+      "title": "File:Trident Hotel India (14666656822).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14666656822).jpg"
+    },
+    {
+      "file": "odisha-47.jpg",
+      "title": "File:Trident Hotel India (14686908583).jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_Hotel_India_(14686908583).jpg"
+    },
+    {
+      "file": "odisha-48.jpg",
+      "title": "File:1910 - Columbia Hotel - Rathskeller Dining Room.jpg",
+      "author": "Author Anonymous Postcard Photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1910_-_Columbia_Hotel_-_Rathskeller_Dining_Room.jpg"
+    },
+    {
+      "file": "odisha-49.jpg",
+      "title": "File:1996 -215-1A Jodhpur Hotel Umaid Bhawan Palace (2234173982).jpg",
+      "author": "Dan Lundberg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1996_-215-1A_Jodhpur_Hotel_Umaid_Bhawan_Palace_(2234173982).jpg"
+    },
+    {
+      "file": "odisha-50.jpg",
+      "title": "File:A Hotel (BOND 0101).jpeg",
+      "author": "Frank Bond",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Hotel_(BOND_0101).jpeg"
+    },
+    {
+      "file": "odisha-51.jpg",
+      "title": "File:A view of the pleasant lower level platform from the hotel room (28277963500).jpg",
+      "author": "shankar s. from Dubai, united arab emirates",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_the_pleasant_lower_level_platform_from_the_hotel_room_(28277963500).jpg"
+    },
+    {
+      "file": "odisha-52.jpg",
+      "title": "File:Arabian Sea from Hotel Trident Room 34th floor.jpg",
+      "author": "Deepak Bhargava",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arabian_Sea_from_Hotel_Trident_Room_34th_floor.jpg"
+    },
+    {
+      "file": "odisha-53.jpg",
+      "title": "File:Ball Room - Oberoi Grand - Hotel - Kolkata 2014-05-23 4713.JPG",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_Room_-_Oberoi_Grand_-_Hotel_-_Kolkata_2014-05-23_4713.JPG"
+    },
+    {
+      "file": "odisha-54.jpg",
+      "title": "File:Ball Room - Oberoi Grand - Hotel - Kolkata 2014-05-23 4724-4726.TIF",
+      "author": "Biswarup Ganguly",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_Room_-_Oberoi_Grand_-_Hotel_-_Kolkata_2014-05-23_4724-4726.TIF"
+    },
+    {
+      "file": "odisha-55.jpg",
+      "title": "File:Chandigarh, India starred hotel room 01.jpg",
+      "author": "Fredericknoronha",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh,_India_starred_hotel_room_01.jpg"
+    },
+    {
+      "file": "odisha-56.jpg",
+      "title": "File:Dining room view from Hotel Mahesh, Jhakri (18425609768).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dining_room_view_from_Hotel_Mahesh,_Jhakri_(18425609768).jpg"
+    },
+    {
+      "file": "odisha-57.jpg",
+      "title": "File:Hotel-watsons 0.jpg",
+      "author": "Paper Jewels",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel-watsons_0.jpg"
+    },
+    {
+      "file": "odisha-58.jpg",
+      "title": "File:Hotel Room Toranmal.jpg",
+      "author": "AbhiRiksh",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Room_Toranmal.jpg"
+    },
+    {
+      "file": "odisha-59.jpg",
+      "title": "File:Hotel Room View (1581437020).jpg",
+      "author": "Francisco Anzola",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Room_View_(1581437020).jpg"
+    },
+    {
+      "file": "odisha-60.jpg",
+      "title": "File:Hotel room, Doha, Qatar (2791560733).jpg",
+      "author": "Tilemahos Efthimiadis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room,_Doha,_Qatar_(2791560733).jpg"
+    },
+    {
+      "file": "odisha-61.jpg",
+      "title": "File:Hotel room, Doha, Qatar (2792410828).jpg",
+      "author": "Tilemahos Efthimiadis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room,_Doha,_Qatar_(2792410828).jpg"
+    },
+    {
+      "file": "odisha-62.jpg",
+      "title": "File:Hotel room, Doha, Qatar (2792411942).jpg",
+      "author": "Tilemahos Efthimiadis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room,_Doha,_Qatar_(2792411942).jpg"
+    },
+    {
+      "file": "odisha-63.jpg",
+      "title": "File:Hotel room at GRT Temple Bay Resorts, Mahabalipuram.jpeg",
+      "author": "tshrinivasan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room_at_GRT_Temple_Bay_Resorts,_Mahabalipuram.jpeg"
+    },
+    {
+      "file": "odisha-64.jpg",
+      "title": "File:Hotel room in Gurgaon, India.jpg",
+      "author": "Sahil Dhiman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room_in_Gurgaon,_India.jpg"
+    },
+    {
+      "file": "odisha-65.jpg",
+      "title": "File:Hotel room in Mumbai (238516872).jpg",
+      "author": "Rakesh from Bangalore",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_room_in_Mumbai_(238516872).jpg"
+    },
+    {
+      "file": "odisha-66.jpg",
+      "title": "File:Hyderabad Hotel (20 May 2016).jpg",
+      "author": "This photograph is created by Sbb1413 . All photographs created by him are released under the {{CC-BY 4.0}} license unless otherwise noted. Derived works are released under the same license as original.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyderabad_Hotel_(20_May_2016).jpg"
+    },
+    {
+      "file": "odisha-67.jpg",
+      "title": "File:Jodhpur - tapestry in my hotel room (5317837318).jpg",
+      "author": "Patrick Barry from san francisco, ca, usa",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jodhpur_-_tapestry_in_my_hotel_room_(5317837318).jpg"
+    },
+    {
+      "file": "odisha-68.jpg",
+      "title": "File:Kaso, hotel Deep forest room view.jpg",
+      "author": "ArjunChhibber01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaso,_hotel_Deep_forest_room_view.jpg"
+    },
+    {
+      "file": "odisha-69.jpg",
+      "title": "File:Luxury hotel room in Hyderabad, India.jpg",
+      "author": "Fredericknoronha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxury_hotel_room_in_Hyderabad,_India.jpg"
+    },
+    {
+      "file": "odisha-70.jpg",
+      "title": "File:My Bundi hotel room (4179500275).jpg",
+      "author": "Justin Morgan from Richmond, Virginia, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:My_Bundi_hotel_room_(4179500275).jpg"
+    },
+    {
+      "file": "odisha-71.jpg",
+      "title": "File:Recepcion del hotel d'angelis 1913 ok..jpg",
+      "author": "Giacomo D'Angelis",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recepcion_del_hotel_d%27angelis_1913_ok..jpg"
+    },
+    {
+      "file": "odisha-72.jpg",
+      "title": "File:Room view from hotel drifters in old manali.jpg",
+      "author": "ArjunChhibber01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Room_view_from_hotel_drifters_in_old_manali.jpg"
+    },
+    {
+      "file": "odisha-73.jpg",
+      "title": "File:Taj Mahal Palace Hotel, Mumbai, India.jpg",
+      "author": "The Bombay Lithographic Co.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel,_Mumbai,_India.jpg"
+    },
+    {
+      "file": "odisha-74.jpg",
+      "title": "File:The American side of the falls- from my hotel room (27794624362).jpg",
+      "author": "shankar s. from Poona (pune), India, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_American_side_of_the_falls-_from_my_hotel_room_(27794624362).jpg"
+    },
+    {
+      "file": "odisha-75.jpg",
+      "title": "File:The casino looked much better from my hotel room (27794630122).jpg",
+      "author": "shankar s. from Poona (pune), India, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_casino_looked_much_better_from_my_hotel_room_(27794630122).jpg"
+    },
+    {
+      "file": "odisha-76.jpg",
+      "title": "File:Trident BKC - View from my hotel room 01.jpg",
+      "author": "Scott McLeod",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trident_BKC_-_View_from_my_hotel_room_01.jpg"
+    },
+    {
+      "file": "odisha-77.jpg",
+      "title": "File:Udaipur hotel room (4179484457).jpg",
+      "author": "Justin Morgan from Richmond, Virginia, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_hotel_room_(4179484457).jpg"
+    },
+    {
+      "file": "odisha-78.jpg",
+      "title": "File:Velneshwar beach as seen from our hotel room 2011.jpg",
+      "author": "Ankur P",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velneshwar_beach_as_seen_from_our_hotel_room_2011.jpg"
+    },
+    {
+      "file": "odisha-79.jpg",
+      "title": "File:View to jal mahal from my room in the hotel - panoramio.jpg",
+      "author": "Maxim Cruiser",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_to_jal_mahal_from_my_room_in_the_hotel_-_panoramio.jpg"
+    },
+    {
+      "file": "odisha-80.jpg",
+      "title": "File:WGBC2018IN-Hotel Room 01.jpg",
+      "author": "Indrajit Das",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WGBC2018IN-Hotel_Room_01.jpg"
+    },
+    {
+      "file": "odisha-81.jpg",
+      "title": "File:Wedding Celebration - Laxmi Villa Palace Hotel - Bharatpur - India (4610575156).jpg",
+      "author": "David Brossard",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wedding_Celebration_-_Laxmi_Villa_Palace_Hotel_-_Bharatpur_-_India_(4610575156).jpg"
+    },
+    {
+      "file": "odisha-82.jpg",
+      "title": "File:A Guest house on the streets of Fontainhas, Panaji.jpg",
+      "author": "iMahesh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Guest_house_on_the_streets_of_Fontainhas,_Panaji.jpg"
+    },
+    {
+      "file": "odisha-83.jpg",
+      "title": "File:Bogmalo Beach Guest House side view.jpg",
+      "author": "Pchaitanya64",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bogmalo_Beach_Guest_House_side_view.jpg"
+    },
+    {
+      "file": "odisha-84.jpg",
+      "title": "File:Display Guest House Phuktal Zanskar Jun24 A7CR 00427.jpg",
+      "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Display_Guest_House_Phuktal_Zanskar_Jun24_A7CR_00427.jpg"
+    },
+    {
+      "file": "odisha-85.jpg",
+      "title": "File:Front Guest House Anna Univ Trichy Dec25 R16 07980.jpg",
+      "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Guest_House_Anna_Univ_Trichy_Dec25_R16_07980.jpg"
+    },
+    {
+      "file": "odisha-86.jpg",
+      "title": "File:Front Guest House Anna Univ Trichy Dec25 R16 07981.jpg",
+      "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Guest_House_Anna_Univ_Trichy_Dec25_R16_07981.jpg"
+    },
+    {
+      "file": "odisha-87.jpg",
+      "title": "File:Front Guest House Phuktal Zanskar Jun24 A7CR 00500.jpg",
+      "author": "Timothy A. Gonsalves",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Guest_House_Phuktal_Zanskar_Jun24_A7CR_00500.jpg"
+    },
+    {
+      "file": "odisha-88.jpg",
+      "title": "File:Front of ICAR international guest house New Delhi.jpg",
+      "author": "Mukesh.kfc",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_ICAR_international_guest_house_New_Delhi.jpg"
+    },
+    {
+      "file": "odisha-89.jpg",
+      "title": "File:Front view of Guest House and Convention Centre, IISER Pune.jpg",
+      "author": "DesiBoy101",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Guest_House_and_Convention_Centre,_IISER_Pune.jpg"
+    },
+    {
+      "file": "odisha-90.jpg",
+      "title": "File:Guest House Phuktal Zanskar Jun24 A7CR 00533.jpg",
+      "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guest_House_Phuktal_Zanskar_Jun24_A7CR_00533.jpg"
+    }
+  ]
+}
