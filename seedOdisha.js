@@ -2,6 +2,7 @@ require("dotenv").config();
 
 const mongoose = require("mongoose");
 const dns = require("dns");
+const { writeListingArtwork } = require("./utils/listingArtwork.js");
 const Listing = require("./models/listing.js");
 const User = require("./models/user.js");
 
@@ -676,7 +677,7 @@ odishaListings.push(
 );
 
 const listingsWithLocalImages = odishaListings.map((listing, index) => {
-    const filename = `odisha-${String(index + 1).padStart(2, "0")}.jpg`;
+    const filename = `odisha-${String(index + 1).padStart(2, "0")}.svg`;
     return {
         ...listing,
         image: {
@@ -698,6 +699,8 @@ if (
 }
 
 async function seedOdishaListings() {
+    writeListingArtwork(listingsWithLocalImages.length);
+
     const dbUrl = process.env.ATLASDB_URL;
     if (!dbUrl) {
         throw new Error("ATLASDB_URL is not set. Check your local .env configuration.");
