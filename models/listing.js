@@ -18,6 +18,7 @@ const listingSchema = new Schema({
         default: 1000,
     },
     location : String,
+    state: String,
     country : String,
     reviews : [
         {
