@@ -52,9 +52,7 @@ async function setDefaultPrices() {
 
 async function main() {
     dns.setServers(["8.8.8.8", "1.1.1.1"]);
-
     await mongoose.connect(dbUrl);
-
     await setDefaultPrices();
 }
 
@@ -93,11 +91,9 @@ app.use(
 
 const store = MongoStore.create({
     mongoUrl: dbUrl,
-
     crypto: {
         secret: process.env.SECRET
     },
-
     touchAfter: 24 * 60 * 60
 });
 
@@ -113,18 +109,12 @@ store.on("error", (err) => {
 
 const sessionOptions = {
     store,
-
     secret: process.env.SECRET,
-
     resave: false,
-
     saveUninitialized: true,
-
     cookie: {
         expires: Date.now() + 7 * 24 * 60 * 60 * 1000,
-
         maxAge: 7 * 24 * 60 * 60 * 1000,
-
         httpOnly: true
     }
 };
@@ -172,13 +162,9 @@ passport.deserializeUser(
 // ===============================
 
 app.use((req, res, next) => {
-
     res.locals.success = req.flash("success") || [];
-
     res.locals.error = req.flash("error") || [];
-
     res.locals.currUser = req.user || null;
-
     next();
 });
 
@@ -188,9 +174,7 @@ app.use((req, res, next) => {
 // ===============================
 
 app.get("/", (req, res) => {
-
     res.redirect("/listings");
-
 });
 
 
@@ -202,7 +186,6 @@ app.get("/demouser", async (req, res) => {
 
     let fakeUser = new User({
         email: "student@gmail.com",
-
         username: "delta-student"
     });
 
@@ -210,7 +193,6 @@ app.get("/demouser", async (req, res) => {
         fakeUser,
         "helloworld123"
     );
-
     res.send(registeredUser);
 });
 
@@ -234,7 +216,6 @@ app.use(
     userRouter
 );
 
-
 // ===============================
 // Error Handler
 // ===============================
@@ -253,7 +234,6 @@ app.use((err, req, res, next) => {
             message
         }
     );
-
 });
 
 
@@ -264,9 +244,7 @@ app.use((err, req, res, next) => {
 const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => {
-
     console.log(
         `Server is listening on port ${PORT}`
     );
-
 });
